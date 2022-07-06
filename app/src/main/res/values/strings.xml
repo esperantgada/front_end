@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">App FrontEnd Development</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="connect">Connect</string>
+    <string name="notifications">Notifications</string>
+    <string name="profile">Profile</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="give_feedback">Give Feedback</string>
+    <string name="settings_amp_privacy"><![CDATA[Settings & Privacy]]></string>
+    <string name="share_app">Share App</string>
+    <string name="my_groups">My Groups</string>
+    <string name="my_posts">My Posts</string>
+    <string name="view_profile">View Profile</string>
+    <string name="saurabh_bassi">Saurabh Bassi</string>
+    <string name="notifications_fragment">Notifications Fragment</string>
+    <string name="search_for_interest_groups">Search for interest groups</string>
+    <string name="articles">Articles</string>
+    <string name="from">from</string>
+    <string name="paediatrics">Paediatrics,</string>
+    <string name="_2_others">+2 others</string>
+    <string name="share_your_views">Share your views…</string>
+    <string name="across_the_atg_globe_atg_acrosstheglobe">Across The.ATG Globe ATG.AcrossTheGlobe</string>
+    <string name="_6h">6h</string>
+    <string name="what_is_net_neutrality">What is net neutrality?</string>
+    <string name="net_neutrality_is_the_idea_that_all_internet_traffic_should_be_treated_equally">Net neutrality is the idea that all internet traffic should be treated equally</string>
+    <string name="inspiring">Inspiring</string>
+    <string name="comment">Comment</string>
+    <string name="share">Share</string>
+    <string name="connect_fragment">Connect Fragment</string>
+    <string name="my_location">My Location</string>
+    <string name="just_a_button">Just a button</string>
+</resources>
