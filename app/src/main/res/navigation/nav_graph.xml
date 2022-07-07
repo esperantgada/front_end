@@ -10,11 +10,13 @@
         android:name="eg.esperantgada.appfrontenddevelopment.fragment.HomeFragment"
         android:label="fragment_home"
         tools:layout="@layout/fragment_home" />
+
     <fragment
         android:id="@+id/connectFragment"
         android:name="eg.esperantgada.appfrontenddevelopment.fragment.ConnectFragment"
         android:label="fragment_connect"
         tools:layout="@layout/fragment_connect" />
+
     <fragment
         android:id="@+id/notificationFragment"
         android:name="eg.esperantgada.appfrontenddevelopment.fragment.NotificationFragment"
