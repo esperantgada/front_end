@@ -5,7 +5,7 @@ This is a front-end development for an internship with BottomSheetDialogFragment
 
 These screens show the above description:
 
-<img src="screenshots/Screenshot1.png" width="150" /> | <img src="screenshots/Screenshot2.png" width="150" />
+<img src="Screenshot1.png" width="150" /> | <img src="Screenshot2.png" width="150" />
 ------------|--------------|
 Home screen | Profile      |
 
